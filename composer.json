@@ -23,7 +23,7 @@
     ],
     "require": {
         "php": "^8.0",
-        "craftcms/cms": "^4.0.0",
+        "craftcms/cms": "^5.0.0",
         "guzzlehttp/guzzle": "^6.5.5|^7.2.0",
         "illuminate/support": "^8.0|^9.0"
     },
